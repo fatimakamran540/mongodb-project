@@ -1,0 +1,59 @@
+body{
+    padding-left: 20px;
+}
+
+.chat{
+ background-color: aliceblue;
+ padding: 20px;
+ border-radius: 4px;
+ display: inline-block;
+}
+
+.msg{
+background-color: darkcyan;
+border-radius: 4px;
+padding: 8px;
+color:white;
+font-size: 15px;
+}
+
+.button{
+    background-color: darkcyan;
+    border-radius: 4px;
+    padding: 8px;
+    color:white;
+    border: none;
+    cursor: pointer;
+
+}
+.button:hover{
+    background-color: darkblue;
+    font-size: 20px;
+    transition: all 0.2s ease;
+}
+h1{
+    font-size: 30px;
+}
+input{
+    border: none;
+    background-color: aliceblue;
+    border-radius: 4px;
+    padding: 8px;
+
+}
+
+.box{
+    background-color: aliceblue;
+    display: inline-block;
+    color: darkcyan;
+    padding: 20px;
+}
+.edit{
+    border: none;
+    border: 1px solid darkcyan;
+    border-radius: 4px;
+    padding: 8px;
+    color: darkcyan;
+    font-size: 20px;
+
+}
